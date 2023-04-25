@@ -1,6 +1,10 @@
 .divGeneral{
     margin-left: 280px;
     padding: 5%;
+box-shadow: 0 0 5px #888;
+border-radius: 10px; 
+background-color:darkslateblue;
+
 }
 body {
     background-image:url(vmz.jpg);
