@@ -1,0 +1,130 @@
+
+body{
+    background-color: white;
+     
+}
+.container1{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    background-color: white;
+    border: 2px solid black;
+    margin: auto;
+    width: 500px;
+    
+}
+.cuadro1{    
+    background-color: red;
+    color: whitesmoke;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    font-size: 30px;
+    text-align: center;
+    line-height: 150px;
+   
+}
+.cuadro2{    
+    background-color: blue;
+    color: whitesmoke;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    font-size: 30px;
+    text-align: center;
+    line-height: 150px;
+}
+.cuadro3{    
+    background-color: green;
+    color: whitesmoke;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    font-size: 30px;
+    text-align: center;
+    line-height: 150px;
+}
+/* EJERCICIO 2 */
+
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+    background-color: white;
+    border: 2px solid black; 
+    margin: auto;
+    width: 450px;
+    height: 450px;
+
+}
+.cuadro4{
+    background-color: red;
+    color: white;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    font-size: 20px;
+    text-align: center;
+    line-height: 150px;
+}
+.cuadro5{
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    font-size: 20px;
+    text-align: center;
+    line-height: 150px;
+}
+.cuadro6{
+    background-color: green;
+    color: white;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    font-size: 20px;
+    text-align: center;
+    line-height: 150px;
+}
+/* EJERCICIO 3 */
+
+.container3{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    border: 1px solid black;
+    height: 200px;
+    width: 1330px;
+}
+.cuadro7{
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+    font-size: 30px;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+}
+.cuadro8{
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+    font-size: 30px;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+}
+.cuadro9{
+    background-color: green;
+    color: white;
+    border: 1px solid black;
+    font-size: 30px;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+}
