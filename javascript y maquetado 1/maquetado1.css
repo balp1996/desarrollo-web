@@ -5,7 +5,7 @@ body {
   }
   
   header {
-    background-color: #2b59f1;
+    background-color: #f1ac2b;
     color: #fff;
     /* padding: 10px; */
     text-align: center;
@@ -18,7 +18,7 @@ body {
     list-style-type: none;
     margin: 0;
     padding: 60;
-    background-color: #f74b4b;
+    background-color: #b24bf7;
     padding:20px ;
    
     
@@ -41,7 +41,7 @@ body {
   }
   
   footer {
-    background-color: #2b59f1;
+    background-color: #f1ac2b;
     color: #fff;
     padding: 20px;
     text-align: center;
