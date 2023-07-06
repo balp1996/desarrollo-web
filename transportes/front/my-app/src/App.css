@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-image:  url("../../my-app/public/imgCielo.jpg");
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 60;
+  background-color: #b24bf7;
+  padding:20px ;
+ 
+  
+  
+ 
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+section {
+  padding: 40px;
+}

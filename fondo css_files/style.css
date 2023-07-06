@@ -1,0 +1,23 @@
+h2 {
+    color: rgb(54, 49, 45); 
+    
+}
+h3 {
+    color: rgb(30, 123, 210);
+    front size: 80px;
+
+}
+
+.divGeneral{
+    margin-left: 280px;
+}
+
+
+
+
+body {
+
+    background-image:url(vmz.jpg);
+    background-position: center center;
+
+}
