@@ -4,6 +4,7 @@ body {
   padding: 0;
   text-align: center;
   background-image:  url("../../my-app/public/imgCielo.jpg");
+  display: block;
 }
 
 nav ul {

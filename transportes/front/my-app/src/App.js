@@ -6,7 +6,8 @@ import Inicio from './pages/Inicio';
 import Servicios from './pages/Servicios';
 import Nosotros from './pages/Nosotros';
 import Galeria from   './pages/Galeria';
-import Contactos from './pages/Cotactos';
+import Contactos from './pages/Contactos';
+
 
 
 
